@@ -11,6 +11,12 @@ The system is designed to work seamlessly when shared through common channels su
 
 ---
 
+This repository includes:
+- Conceptual description of the system  
+- Supported interaction types and actions  
+- High-level technical mechanism  
+- Intended use cases and extensibility
+
 ## Problem Statement
 
 Most digital invitations, announcements, tickets, and informational creatives are static in nature.
