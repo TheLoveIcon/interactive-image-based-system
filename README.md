@@ -1,5 +1,7 @@
 # Interactive Image-Based Digital Interaction System
 
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5MzxSLUKkfkAToF1YVGLkwLS8ykreGVQXcjLHNgKjm5LRrCaG8wGB01WlG4KAsl1x0vxFyhUUz2sdX_0gA-gIZKpyfCLyT_CGBD_W3qjc_6K73pE3d0kHDsx4dt-DNY8B2KeekUOc-EKLDlMuqbRzpm0tQ_cIkgLJALaCGWXDfDJ5SEMxumZ-m9A0N2t_/s1536/Interactive%20event%20invitation%20system%20showcase.png
+
 ## Overview
 
 This project introduces a system where **digital images, PDFs, or visual media assets themselves act as interactive interfaces**.  
